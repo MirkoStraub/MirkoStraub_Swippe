@@ -19,6 +19,10 @@ https://fonts.google.com/specimen/Gulzar?preview.text=Swippe&preview.text_type=c
 ### __Paleta de colores__
 https://colorhunt.co/palette/f0ebe3e4dccf7d9d9c576f72
 
+### __FIGMA__
+https://www.figma.com/file/T0l2wxfci2eZMCTGXKP58O/BOCETOS-PARA-ECOMMERCE?node-id=3%3A305
+
+
 **<h1 align ="center"> LOGO</h1>**
 
 ![Screenshot](Swippe_logo.png)
